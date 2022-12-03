@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/donations_dapp/static/css/main.3bcd7a53.css",
+    "main.js": "/donations_dapp/static/js/main.1c16ee65.js",
+    "static/js/787.6e467967.chunk.js": "/donations_dapp/static/js/787.6e467967.chunk.js",
+    "index.html": "/donations_dapp/index.html",
+    "main.3bcd7a53.css.map": "/donations_dapp/static/css/main.3bcd7a53.css.map",
+    "main.1c16ee65.js.map": "/donations_dapp/static/js/main.1c16ee65.js.map",
+    "787.6e467967.chunk.js.map": "/donations_dapp/static/js/787.6e467967.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bcd7a53.css",
+    "static/js/main.1c16ee65.js"
+  ]
+}
